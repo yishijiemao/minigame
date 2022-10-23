@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8e31045e87d9434d8519e2a6b847136, type: 3}
+  m_Name: E`A
+  m_EditorClassIdentifier: 
+  namE: "\u91CE\u86EE\u4EBA"
+  youshi: 1
+  Hp: 1
+  jiaoli: 1
+  type: 0
+  obj: {fileID: 2864826683210339849, guid: db5ed499f0b65b24c9c40ff3d2296bc6, type: 3}
+  Ui: {fileID: 21300000, guid: 8e89cd8b64dedc64bbd7a5c9980d63d6, type: 3}
+  emeny: 1
+  nextBins: []
+  cost: 0

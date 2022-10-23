@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1652082956" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Virtual Acoustics\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Triggers\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Switches\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\States\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\SoundBanks\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Queries\Factory Queries.wwu" DateLow="1652082956" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Queries\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Presets\Factory Spatial Audio.wwu" DateLow="1652082956" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Presets\Factory Reflect.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Presets\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Modulators\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Mixing Sessions\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Mini game.wproj" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Metadata\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Game Parameters\Factory Motion.wwu" DateLow="1652082973" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Game Parameters\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Events\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory Reflect.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory McDSP Effects.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory Mastering Suite.wwu" DateLow="1652082973" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Filters.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Dynamics.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Delay.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory iZotope Box Modeler.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory Effects.wwu" DateLow="1652082956" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory Convolution Reverb Effects Stereo.wwu" DateLow="1652083318" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory Convolution Reverb Effects Ambisonics.wwu" DateLow="1652083317" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Factory Auro Headphone.wwu" DateLow="1652082968" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Effects\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1652082956" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Conversion Settings\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Control Surface Sessions\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Audio Devices\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Attenuations\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1652082956" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1652082972" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1652082973" DateHigh="0"/>
+	<ValidationCacheItem File="F:\2022 MIni game\sound feature\minigame\Mini game\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1665559179" DateHigh="0"/>
+</ValidationCache>
